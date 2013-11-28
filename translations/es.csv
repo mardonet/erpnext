@@ -4,8 +4,8 @@
  already marked,ya marcada
  and year: ,y el año:
  as it is stock Item or packing item,ya que es la acción del artículo o elemento de embalaje
- at warehouse: ,en el almacén:
- by Role ,por función
+ at warehouse: ,en la bodega:
+ by Role ,por rol
  can not be made.,no puede ser hecho.
  can not be marked as a ledger as it has existing child,"no puede ser marcado como un libro de contabilidad, ya que tiene menor existente"
  cannot be 0,no puede ser 0
